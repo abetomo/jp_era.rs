@@ -1,5 +1,5 @@
 [package]
-name = "jp-era-map"
+name = "jp_era"
 version = "0.1.0"
 edition = "2021"
 
