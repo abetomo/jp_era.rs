@@ -6,6 +6,6 @@
 extern crate jp_era;
 
 fn main() {
-    println!("{}", jp_era::to_gregorian_calendar("R03").unwrap());
+    println!("{}", jp_era::to_gregorian_year("R03").unwrap());
 }
 ```
